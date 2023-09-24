@@ -13,7 +13,7 @@
     },
     "runtimeVersion": "1",
     "updates": {
-      "url": "https://expo.rayastudio.in/api/manifest",
+      "url": "https://expoautoupdates-iambavith-dev.vercel.app/api/manifest",
       "enabled": true,
       "fallbackToCacheTimeout": 30000,
       "codeSigningCertificate": "./code-signing/certificate.pem",

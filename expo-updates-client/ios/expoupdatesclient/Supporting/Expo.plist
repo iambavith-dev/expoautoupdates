@@ -38,6 +38,6 @@ ZA==
     <key>EXUpdatesRuntimeVersion</key>
     <string>1</string>
     <key>EXUpdatesURL</key>
-    <string>https://expo.rayastudio.in/api/manifest</string>
+    <string>https://expoautoupdates-iambavith-dev.vercel.app/api/manifest</string>
   </dict>
 </plist>

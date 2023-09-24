@@ -21,7 +21,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Open up App.js</Text>
+      <Text>Open up App.js dyftdfd</Text>
       <Text>{Constants.expoConfig.name}</Text>
       <Button title="Fetch update" onPress={onFetchUpdateAsync} />
       <StatusBar style="auto" />
